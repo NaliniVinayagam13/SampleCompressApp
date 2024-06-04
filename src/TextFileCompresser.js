@@ -48,7 +48,7 @@ const TextFileReducer = () => {
 
   const decompressFile = async () => {
 
-    const reducedFilePath = '/storage/emulated/0/Documents/sample.txt.gz';
+    // const reducedFilePath = '/storage/emulated/0/Documents/sample.txt.gz';
     const decompressedFilePath = '/storage/emulated/0/Documents/sample_decompressed.txt';
 
     try {
